@@ -22,4 +22,4 @@ openframeworks->addons->ofxCv->this_example->bin->data->faces
 
 compile and run the app (fingers crossed) and when you look into your camera your face should be highlighted in the list of peeps.
 
-Big ups to Lab at Rockwell (Brott Renfer and Quiz Kennedy)
+Big ups to Lab at Rockwell http://www.rockwellgroup.com/lab for the help.
